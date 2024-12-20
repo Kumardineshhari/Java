@@ -21,3 +21,9 @@ public class neon{
             System.out.println("not a neon number");
     }
 }
+
+/*  
+enter the value: 9
+neon number
+
+*/ 
